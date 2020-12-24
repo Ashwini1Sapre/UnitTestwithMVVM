@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9EF27589-5E00-41E2-A1E5-1F4053300C49"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "951B6235-AA24-45C9-9FC0-2A8BB767255B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestwithMVVMTests/UnitTestwithMVVMTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "UnitTestwithMVVMTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "951B6235-AA24-45C9-9FC0-2A8BB767255B - 8b5db81b2aff479b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVMTests.UnitTestwithMVVMTests.__deallocating_deinit"
+                  moduleName = "UnitTestwithMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVMTests/UnitTestwithMVVMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "951B6235-AA24-45C9-9FC0-2A8BB767255B - f9025a39ddc72aea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVMTests.UnitTestwithMVVMTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UnitTestwithMVVMTests.UnitTestwithMVVMTests"
+                  moduleName = "UnitTestwithMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVMTests/UnitTestwithMVVMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "951B6235-AA24-45C9-9FC0-2A8BB767255B - d98dc43903b0a2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVMTests.UnitTestwithMVVMTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UnitTestwithMVVMTests.UnitTestwithMVVMTests"
+                  moduleName = "UnitTestwithMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVMTests/UnitTestwithMVVMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "951B6235-AA24-45C9-9FC0-2A8BB767255B - 506b174c72a316a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVMTests.UnitTestwithMVVMTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; UnitTestwithMVVMTests.UnitTestwithMVVMTests"
+                  moduleName = "UnitTestwithMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVMTests/UnitTestwithMVVMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "951B6235-AA24-45C9-9FC0-2A8BB767255B - df964a91aa77d00e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVMTests.UnitTestwithMVVMTests.init(selector: ObjectiveC.Selector) -&gt; UnitTestwithMVVMTests.UnitTestwithMVVMTests"
+                  moduleName = "UnitTestwithMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVMTests/UnitTestwithMVVMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "951B6235-AA24-45C9-9FC0-2A8BB767255B - dbe0860971d7540e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVMTests.UnitTestwithMVVMTests.__allocating_init() -&gt; UnitTestwithMVVMTests.UnitTestwithMVVMTests"
+                  moduleName = "UnitTestwithMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVMTests/UnitTestwithMVVMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "951B6235-AA24-45C9-9FC0-2A8BB767255B - 2370c8a37faa4a4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVMTests.UnitTestwithMVVMTests.init() -&gt; UnitTestwithMVVMTests.UnitTestwithMVVMTests"
+                  moduleName = "UnitTestwithMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVMTests/UnitTestwithMVVMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCE2934E-6160-4D57-93B7-62D294F942D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestwithMVVM/APIServise.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchPopularPhoto(complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D94068A1-9C57-4C71-8F6F-6D1F3209CA39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestwithMVVM/APIServise.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "APIService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D94068A1-9C57-4C71-8F6F-6D1F3209CA39 - 735433171f6010e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVM.APIService.deinit"
+                  moduleName = "UnitTestwithMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVM/APIServise.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "D94068A1-9C57-4C71-8F6F-6D1F3209CA39 - c2fed072cfd17a94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVM.APIService.__deallocating_deinit"
+                  moduleName = "UnitTestwithMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVM/APIServise.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D94068A1-9C57-4C71-8F6F-6D1F3209CA39 - f99897c905bb2df2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVM.APIService.__allocating_init() -&gt; UnitTestwithMVVM.APIService"
+                  moduleName = "UnitTestwithMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVM/APIServise.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "D94068A1-9C57-4C71-8F6F-6D1F3209CA39 - 4931b88cf4861599"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestwithMVVM.APIService.init() -&gt; UnitTestwithMVVM.APIService"
+                  moduleName = "UnitTestwithMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UnitTestwithMVVM/UnitTestwithMVVM/APIServise.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
